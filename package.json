@@ -1,6 +1,6 @@
 {
-  "name": "car-dealer",
-  "version": "0.1.0",
+  "name": "the-car-store",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@tabler/icons-react": "^2.33.0",
